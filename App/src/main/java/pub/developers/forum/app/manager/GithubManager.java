@@ -17,8 +17,8 @@ import javax.annotation.Resource;
 import java.util.Date;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2021/5/15
+ * @author lhs
+ * @create 2024/5/15
  * @desc
  **/
 @Component
