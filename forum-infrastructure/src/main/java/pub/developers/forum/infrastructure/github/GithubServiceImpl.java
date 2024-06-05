@@ -81,7 +81,6 @@ public class GithubServiceImpl implements GithubService {
         LogUtil.info(log, "github getAccessToken url={}, tokenBody={}", url, tokenBody);
         JSONObject jsonObject = JSON.parseObject(tokenBody);
 
-        // {"access_token":"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","token_type":"bearer","scope":"user"}
         return jsonObject.getString("access_token");
     }
 }
