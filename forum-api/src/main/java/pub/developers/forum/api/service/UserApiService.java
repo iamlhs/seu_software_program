@@ -11,7 +11,7 @@ import pub.developers.forum.api.response.user.UserPageResponse;
 import org.springframework.web.multipart.MultipartFile;
 /**
  * @author lhs
- * @create 20/7/30
+ * @create 24/5/30
  * @desc
  **/
 public interface UserApiService {
