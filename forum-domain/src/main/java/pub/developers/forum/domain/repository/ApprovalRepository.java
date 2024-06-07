@@ -4,7 +4,7 @@ import pub.developers.forum.domain.entity.Approval;
 
 /**
  * @author lhs
- * @create 2024/12/1
+ * @create 2024/5/1
  * @desc
  **/
 public interface ApprovalRepository {

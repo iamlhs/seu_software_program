@@ -7,7 +7,7 @@ import iView from 'iview'
 import 'iview/dist/styles/iview.css'
 import 'mavon-editor/dist/css/index.css'
 
-Vue.config.productionTip = false
+Vue.config.productionTip = false 
 Vue.prototype.$http = axios
 Vue.use(iView)
 Vue.use(mavonEditor)

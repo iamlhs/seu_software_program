@@ -12,7 +12,7 @@ import pub.developers.forum.domain.entity.value.IdValue;
 
 /**
  * @author lhs
- * @create 2024/7/30
+ * @create 2024/5/30
  * @desc 消息
  **/
 @Data

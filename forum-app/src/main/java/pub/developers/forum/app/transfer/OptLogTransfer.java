@@ -7,7 +7,7 @@ import pub.developers.forum.domain.entity.OptLog;
 
 /**
  * @author lhs
- * @create 2024/12/9
+ * @create 2024/5/9
  * @desc
  **/
 public class OptLogTransfer {

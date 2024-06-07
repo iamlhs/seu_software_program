@@ -2,7 +2,7 @@ package pub.developers.forum.portal.support;
 
 /**
  * @author lhs
- * @create 2024/10/25
+ * @create 2024/5/25
  * @desc
  **/
 public interface WebConst {

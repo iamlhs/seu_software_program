@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * @author lhs
- * @create 2024/12/4
+ * @create 2024/5/4
  * @desc
  **/
 public interface OptLogDAO {

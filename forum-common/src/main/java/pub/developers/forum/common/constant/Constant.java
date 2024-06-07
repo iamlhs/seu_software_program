@@ -2,7 +2,7 @@ package pub.developers.forum.common.constant;
 
 /**
  * @author lhs
- * @create 2024/10/19
+ * @create 2024/5/19
  * @desc
  **/
 public interface Constant {

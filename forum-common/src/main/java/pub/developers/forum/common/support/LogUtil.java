@@ -5,7 +5,7 @@ import org.slf4j.helpers.MessageFormatter;
 
 /**
  * @author lhs
- * @create 2024/10/30
+ * @create 2024/5/30
  * @desc
  **/
 public class LogUtil {

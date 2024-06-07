@@ -6,7 +6,7 @@ import pub.developers.forum.domain.entity.OptLog;
 
 /**
  * @author lhs
- * @create 2024/10/20
+ * @create 2024/5/20
  * @desc
  **/
 public interface OptLogRepository {

@@ -7,7 +7,7 @@ import pub.developers.forum.common.support.CheckUtil;
 
 /**
  * @author lhs
- * @create 2024/10/31
+ * @create 2024/5/31
  * @desc
  **/
 public class ArticleValidator {

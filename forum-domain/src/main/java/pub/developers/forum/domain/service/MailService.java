@@ -4,7 +4,7 @@ import pub.developers.forum.domain.entity.Message;
 
 /**
  * @author lhs
- * @create 2024/12/7
+ * @create 2024/5/7
  * @desc
  **/
 public interface MailService {
