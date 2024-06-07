@@ -1,8 +1,8 @@
 package pub.developers.forum.portal.support;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/25
+ * @author lhs
+ * @create 2024/10/25
  * @desc
  **/
 public interface WebConst {

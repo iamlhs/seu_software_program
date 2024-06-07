@@ -11,8 +11,8 @@ import javax.annotation.Resource;
 import java.util.List;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/1
+ * @author lhs
+ * @create 2024/5/1
  * @desc 帖子自动审核通过
  **/
 @Service

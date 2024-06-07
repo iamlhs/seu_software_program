@@ -4,8 +4,8 @@ import pub.developers.forum.api.model.ResultModel;
 import pub.developers.forum.api.request.file.FileUploadImgRequest;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/23
+ * @author lhs
+ * @create 2024/5/23
  * @desc
  **/
 public interface FileApiService {

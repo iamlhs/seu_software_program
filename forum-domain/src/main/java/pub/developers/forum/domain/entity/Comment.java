@@ -6,8 +6,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/7/30
+ * @author lhs
+ * @create 2024/7/30
  * @desc 帖子评论
  **/
 @Data

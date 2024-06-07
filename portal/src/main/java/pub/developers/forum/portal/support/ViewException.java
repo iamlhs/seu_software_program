@@ -3,8 +3,8 @@ package pub.developers.forum.portal.support;
 import lombok.Data;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/2
+ * @author lhs
+ * @create 2024/5/2
  * @desc
  **/
 @Data

@@ -8,8 +8,8 @@ import pub.developers.forum.domain.repository.PostsRepository;
 import javax.annotation.Resource;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/10
+ * @author lhs
+ * @create 2024/5/10
  * @desc
  **/
 @Component

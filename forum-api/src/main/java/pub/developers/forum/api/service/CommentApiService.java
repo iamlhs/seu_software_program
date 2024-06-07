@@ -7,8 +7,8 @@ import pub.developers.forum.api.request.comment.CommentCreateRequest;
 import pub.developers.forum.api.response.comment.CommentPageResponse;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/6
+ * @author lhs
+ * @create 2024/5/6
  * @desc
  **/
 public interface CommentApiService {

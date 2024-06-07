@@ -6,8 +6,8 @@ import pub.developers.forum.api.request.article.ArticleSaveArticleRequest;
 import pub.developers.forum.common.support.CheckUtil;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/31
+ * @author lhs
+ * @create 2024/10/31
  * @desc
  **/
 public class ArticleValidator {

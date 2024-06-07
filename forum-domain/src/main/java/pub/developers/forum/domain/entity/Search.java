@@ -7,8 +7,8 @@ import lombok.NoArgsConstructor;
 import pub.developers.forum.common.enums.SearchTypeEn;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/12/2
+ * @author lhs
+ * @create 2024/12/2
  * @desc
  **/
 @Data

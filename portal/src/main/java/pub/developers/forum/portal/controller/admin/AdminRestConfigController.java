@@ -20,8 +20,8 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/12/26
+ * @author lhs
+ * @create 2024/12/26
  * @desc
  **/
 @RestController

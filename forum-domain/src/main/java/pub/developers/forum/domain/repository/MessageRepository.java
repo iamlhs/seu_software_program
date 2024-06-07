@@ -8,8 +8,8 @@ import pub.developers.forum.domain.entity.Message;
 import java.util.List;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/22
+ * @author lhs
+ * @create 2024/10/22
  * @desc
  **/
 public interface MessageRepository {

@@ -7,8 +7,8 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/29
+ * @author lhs
+ * @create 2024/10/29
  * @desc
  **/
 public interface UserDAO {

@@ -9,7 +9,7 @@ import pub.developers.forum.api.request.user.UserBaseLoginRequest;
 import java.io.Serializable;
 
 /**
- * @author Qiangqiang.Bian
+ * @author lhs
  * @create 2021/5/15
  * @desc
  **/

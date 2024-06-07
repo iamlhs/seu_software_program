@@ -3,7 +3,7 @@ package pub.developers.forum.domain.service;
 import com.alibaba.fastjson.JSONObject;
 
 /**
- * @author Qiangqiang.Bian
+ * @author lhs
  * @create 2021/5/15
  * @desc
  **/

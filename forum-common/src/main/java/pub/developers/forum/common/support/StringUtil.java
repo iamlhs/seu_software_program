@@ -9,7 +9,7 @@ import java.nio.charset.Charset;
 import java.util.UUID;
 
 /**
- * @author Qiangqiang.Bian
+ * @author lhs
  * @create 20/7/23
  * @desc
  **/

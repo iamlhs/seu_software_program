@@ -6,8 +6,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/20
+ * @author lhs
+ * @create 2024/5/20
  * @desc
  **/
 @Data

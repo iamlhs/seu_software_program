@@ -12,8 +12,8 @@ import pub.developers.forum.domain.service.SearchService;
 import javax.annotation.Resource;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/12/2
+ * @author lhs
+ * @create 2024/12/2
  * @desc
  **/
 @Component

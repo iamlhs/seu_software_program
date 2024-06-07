@@ -9,7 +9,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author Qiangqiang.Bian
+ * @author lhs
  * @create 20/9/9
  * @desc
  **/

@@ -7,8 +7,8 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/5
+ * @author lhs
+ * @create 2024/5/5
  * @desc
  **/
 public interface CommentRepository {

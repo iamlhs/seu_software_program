@@ -3,8 +3,8 @@ package pub.developers.forum.api.service;
 import pub.developers.forum.api.model.ResultModel;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/12/1
+ * @author lhs
+ * @create 2024/12/1
  * @desc
  **/
 public interface ApprovalApiService {

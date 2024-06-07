@@ -10,7 +10,7 @@ import pub.developers.forum.api.response.user.UserOptLogPageResponse;
 import pub.developers.forum.api.response.user.UserPageResponse;
 import org.springframework.web.multipart.MultipartFile;
 /**
- * @author Qiangqiang.Bian
+ * @author lhs
  * @create 20/7/30
  * @desc
  **/

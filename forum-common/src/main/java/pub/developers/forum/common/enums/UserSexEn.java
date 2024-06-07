@@ -5,8 +5,8 @@ import lombok.Getter;
 import pub.developers.forum.common.exception.BizException;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/9/8
+ * @author lhs
+ * @create 2024/9/8
  * @desc
  **/
 @Getter

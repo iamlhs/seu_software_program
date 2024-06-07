@@ -7,7 +7,7 @@ import pub.developers.forum.api.request.message.MessagePageRequest;
 import pub.developers.forum.api.response.message.MessagePageResponse;
 
 /**
- * @author Qiangqiang.Bian
+ * @author lhs
  * @create 20/7/30
  * @desc
  **/

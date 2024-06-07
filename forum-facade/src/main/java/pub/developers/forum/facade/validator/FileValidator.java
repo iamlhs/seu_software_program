@@ -4,8 +4,8 @@ import pub.developers.forum.api.request.file.FileUploadImgRequest;
 import pub.developers.forum.common.support.CheckUtil;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/23
+ * @author lhs
+ * @create 2024/5/23
  * @desc
  **/
 public class FileValidator {

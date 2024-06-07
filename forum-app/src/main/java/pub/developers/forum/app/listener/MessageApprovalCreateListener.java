@@ -14,8 +14,8 @@ import pub.developers.forum.domain.repository.PostsRepository;
 import javax.annotation.Resource;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/12/5
+ * @author lhs
+ * @create 2024/12/5
  * @desc
  **/
 @Component

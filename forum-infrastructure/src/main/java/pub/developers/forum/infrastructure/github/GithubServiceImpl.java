@@ -21,7 +21,7 @@ import pub.developers.forum.domain.service.GithubService;
 import javax.annotation.Resource;
 
 /**
- * @author Qiangqiang.Bian
+ * @author lhs
  * @create 2021/5/15
  * @desc
  **/

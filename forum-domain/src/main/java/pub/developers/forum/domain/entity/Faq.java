@@ -7,8 +7,8 @@ import lombok.NoArgsConstructor;
 import org.springframework.beans.BeanUtils;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/1
+ * @author lhs
+ * @create 2024/5/1
  * @desc
  **/
 @Data

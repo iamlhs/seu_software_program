@@ -1,8 +1,8 @@
 package pub.developers.forum.domain.service;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/23
+ * @author lhs
+ * @create 2024/5/23
  * @desc
  **/
 public interface FileService {

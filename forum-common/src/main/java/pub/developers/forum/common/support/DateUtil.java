@@ -4,8 +4,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/12/8
+ * @author lhs
+ * @create 2024/12/8
  * @desc
  **/
 public class DateUtil {

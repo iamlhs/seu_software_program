@@ -13,8 +13,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/12/26
+ * @author lhs
+ * @create 2024/12/26
  * @desc
  **/
 public class ConfigTransfer {

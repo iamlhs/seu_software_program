@@ -6,8 +6,8 @@ import pub.developers.forum.infrastructure.dal.dataobject.UserFollowDO;
 import java.util.List;
 
 /**
- * @author Qiangqiang.Bian
- * @create 20/11/19
+ * @author lhs
+ * @create 20/5/19
  * @desc
  **/
 public interface UserFollowDAO {

@@ -4,8 +4,8 @@ import org.apache.commons.codec.digest.DigestUtils;
 import org.springframework.util.ObjectUtils;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/29
+ * @author lhs
+ * @create 2024/10/29
  * @desc
  **/
 public class AvatarUtil {

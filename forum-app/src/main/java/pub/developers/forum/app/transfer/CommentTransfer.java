@@ -11,8 +11,8 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/6
+ * @author lhs
+ * @create 2024/5/6
  * @desc
  **/
 public class CommentTransfer {

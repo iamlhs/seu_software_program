@@ -4,8 +4,8 @@ import org.slf4j.Logger;
 import org.slf4j.helpers.MessageFormatter;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/30
+ * @author lhs
+ * @create 2024/10/30
  * @desc
  **/
 public class LogUtil {

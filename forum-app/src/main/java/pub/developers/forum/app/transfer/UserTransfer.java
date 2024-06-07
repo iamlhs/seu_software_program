@@ -24,8 +24,8 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/9/8
+ * @author lhs
+ * @create 2024/9/8
  * @desc
  **/
 public class UserTransfer {

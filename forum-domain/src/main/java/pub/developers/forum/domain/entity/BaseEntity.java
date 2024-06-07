@@ -5,8 +5,8 @@ import lombok.Data;
 import java.util.Date;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/31
+ * @author lhs
+ * @create 2024/10/31
  * @desc
  **/
 @Data

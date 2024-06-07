@@ -5,7 +5,7 @@ import pub.developers.forum.api.request.user.*;
 import pub.developers.forum.common.support.CheckUtil;
 
 /**
- * @author Qiangqiang.Bian
+ * @author lhs
  * @create 20/7/30
  * @desc
  **/

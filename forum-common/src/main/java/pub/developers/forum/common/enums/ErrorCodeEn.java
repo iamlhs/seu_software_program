@@ -1,7 +1,7 @@
 package pub.developers.forum.common.enums;
 
 /**
- * @author Qiangqiang.Bian
+ * @author lhs
  * @create 20/7/23
  * @desc
  **/

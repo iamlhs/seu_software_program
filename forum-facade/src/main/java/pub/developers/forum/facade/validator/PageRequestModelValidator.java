@@ -4,7 +4,7 @@ import pub.developers.forum.api.model.PageRequestModel;
 import pub.developers.forum.common.support.CheckUtil;
 
 /**
- * @author Qiangqiang.Bian
+ * @author lhs
  * @create 20/9/9
  * @desc
  **/

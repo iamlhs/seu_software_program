@@ -4,7 +4,7 @@ import pub.developers.forum.api.model.ResultModel;
 import pub.developers.forum.api.request.github.GithubOauthLoginRequest;
 
 /**
- * @author Qiangqiang.Bian
+ * @author lhs
  * @create 2021/5/15
  * @desc
  **/

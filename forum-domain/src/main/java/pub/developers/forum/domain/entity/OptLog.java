@@ -8,8 +8,8 @@ import lombok.NoArgsConstructor;
 import pub.developers.forum.common.enums.OptLogTypeEn;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/20
+ * @author lhs
+ * @create 2024/10/20
  * @desc
  **/
 @Data

@@ -7,8 +7,8 @@ import pub.developers.forum.api.request.AdminBooleanRequest;
 import pub.developers.forum.api.vo.PostsVO;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/25
+ * @author lhs
+ * @create 2024/5/25
  * @desc
  **/
 public interface PostsApiService {

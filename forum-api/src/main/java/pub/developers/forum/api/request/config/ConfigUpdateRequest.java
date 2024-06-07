@@ -9,8 +9,8 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/12/26
+ * @author lhs
+ * @create 2024/12/26
  * @desc
  **/
 @Data

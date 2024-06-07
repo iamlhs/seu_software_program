@@ -15,8 +15,8 @@ import pub.developers.forum.facade.validator.PageRequestModelValidator;
 import javax.annotation.Resource;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/6
+ * @author lhs
+ * @create 2024/5/6
  * @desc
  **/
 @Service

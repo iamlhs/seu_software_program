@@ -11,8 +11,8 @@ import pub.developers.forum.api.response.faq.FaqUserPageResponse;
 import java.util.List;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/1
+ * @author lhs
+ * @create 2024/5/1
  * @desc
  **/
 public interface FaqApiService {

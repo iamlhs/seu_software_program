@@ -6,8 +6,8 @@ import pub.developers.forum.infrastructure.dal.dataobject.MessageDO;
 import java.util.List;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/12/5
+ * @author lhs
+ * @create 2024/12/5
  * @desc
  **/
 public interface MessageDAO {

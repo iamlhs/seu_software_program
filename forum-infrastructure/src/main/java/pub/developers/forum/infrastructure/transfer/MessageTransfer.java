@@ -11,8 +11,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/12/5
+ * @author lhs
+ * @create 2024/12/5
  * @desc
  **/
 public class MessageTransfer {
